@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Twitter Normalleştirici",
     "description": "Twitter logosunu 23 Temmuz 2023 öncesine döndürür",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "icons": {
         "16": "logo/logo-16.png",
         "48": "logo/logo-48.png",
